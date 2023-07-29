@@ -1,0 +1,45 @@
+.text{
+    width: 30%;
+    height: 40px;
+    border: 1px solid white;
+    background-color: #007bff;
+    text-align: center;
+    margin-top: 1px;
+    color: white;
+}
+.text1{
+    width: 30%;
+    height: 100%;
+    border: 1px solid white;
+    background-color: #007bff;
+    text-align: center;
+    margin-top: 1px;
+    color: white;
+}
+.text2{
+    width: 30%;
+    height: 10%;
+    border: 1px solid #007bff;
+    background-color: orangered;
+    text-align: center;
+    margin-top: 1px;
+    color: white;
+}
+.text3{
+    width: 30%;
+    height: 10%;
+    border: 1px solid #007bff;
+    background-color: grey;
+    text-align: center;
+    margin-top: 1px;
+    color: white;
+}
+.text4{
+    width: 30%;
+    height: 10%;
+    border: 1px solid #007bff ;
+    background-color: seagreen;
+    text-align: center;
+    margin-top: 1px;
+    color: white;
+}

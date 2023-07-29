@@ -1,0 +1,54 @@
+.text{
+    width: 40px;
+    height: 30px;
+    border: 1px solid orangered;
+    background-color: coral;
+    text-align: center;
+    color: white;
+
+}
+.text1{
+    width: 10px;
+    height: 30px;
+    border: 1px solid orangered;
+    background-color: coral;
+    text-align: center;
+    color: white;
+}
+.text2{
+    width: 13px;
+    height: 30px;
+    border: 1px solid orangered;
+    background-color: coral;
+    text-align: center;
+    color: white;
+
+}
+.item{
+    width: 80px;
+    height: 30px;
+    border: 1px solid orangered;
+    background-color: coral;
+    text-align: center;
+    color: white;
+
+}
+.text3{
+    width: 10px;
+    height: 30px;
+    border: 1px solid orangered;
+    background-color: coral;
+    text-align: center;
+    color: white;
+
+}
+.text4{
+    width: 10px;
+    height: 30px;
+    border: 1px solid orangered;
+    background-color: coral;
+    text-align: center;
+    color: white;
+
+}
+
